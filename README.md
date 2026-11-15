@@ -14,6 +14,13 @@
 
 https://github.com/bryanshim/AItutor21-MindMap/
 
+## 바로 써보기
+
+설치 없이 아래 링크에서 바로 열어 쓸 수 있습니다.
+
+- 마인드맵 써보세요 (클로드): https://claude.ai/artifact/SaRz7rTbYQJQRpCbkiFtbn
+- 마인드맵 써보세요 (재미나이): https://share.gemini.google/N52Zm3dzL6Cm
+
 ## 5분 실습 순서
 
 이 도구가 맡는 단계는 앞의 두 단계(마인드맵 → 온톨로지)입니다. 뒤의 두 단계(엑셀 자동화, AI 데이터분석)는 여기서 내보낸 결과를 가지고 강의에서 이어서 진행합니다.
