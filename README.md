@@ -2,10 +2,33 @@
 
 단일 HTML 파일로 동작하는 마인드맵 편집기입니다. 설치 없이 `index.html`을 브라우저에서 열면 됩니다.
 
+## 화면
+
+마인드맵 편집 화면
+
+![마인드맵 편집 화면](screenshots/01-mindmap.png)
+
+온톨로지 지식 그래프
+
+![온톨로지 지식 그래프](screenshots/02-ontology-graph.png)
+
+트리플(S-P-O) 표
+
+![트리플 표](screenshots/03-ontology-triples.png)
+
+컨텍스트 그래프
+
+![컨텍스트 그래프](screenshots/04-context-graph.png)
+
+AI 비주얼 요약 (Claude·Gemini를 쓸 수 없을 때 나오는 요약 포스터)
+
+![요약 포스터](screenshots/05-summary-poster.png)
+
 ## 파일
 
 - `index.html` — 수정본 (아래 "원본 대비 수정 내역" 반영)
 - `original/aitutor21_mindmap.html` — 원본 그대로
+- `screenshots/` — 위 화면 캡처 (기본 예시 맵, 1440×810 창 기준)
 
 ## 기능
 
